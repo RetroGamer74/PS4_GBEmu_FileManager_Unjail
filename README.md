@@ -13,6 +13,10 @@ This is done using a unity plugin that I developed. This plugin contains the min
 
 I hope to fill this README with more comments as soon I get some free time.
 
+The main goal of this project also with this other one: https://github.com/RetroGamer74/MediaPlayer_FileManager_Unjail is provide to the PS4 Scene Developers a nice templates to develop homebrew.
+
+I hope you enjoy.
+
 # CREDITS
 This PS4-GBEmu contains the main core of GB emulator from project UnityGB https://github.com/KonsomeJona/unity-gb.
 
