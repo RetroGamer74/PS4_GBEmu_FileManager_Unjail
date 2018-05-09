@@ -40,4 +40,4 @@ Scrollable items with DPad.
 
 Many other features and bug fixes.
 
-In includes my Unjail Plugin for Unity
+It includes my Unjail Plugin for Unity
